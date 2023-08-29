@@ -3,9 +3,9 @@ import React from 'react'
 import './testimonials.css'
 function Testimonials() {
   return (
-    <div>
-      
-    </div>
+    <section id='testimonials'>
+      testimonials
+    </section>
   )
 }
 
