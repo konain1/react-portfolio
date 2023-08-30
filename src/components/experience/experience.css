@@ -4,6 +4,9 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    margin-top: 4rem;
+    border: 1px solid white;
+    padding: 2rem;
 }
 
 .experience__container > div {
