@@ -24,12 +24,12 @@ function Footer() {
   </ul>
 
   <div className='footer__socials'> 
-  <a href=''><BsGithub /></a>
-  <a href=''><BsLinkedin/></a>
+  <a href='https://github.com/konain1 ' target='_blank'><BsGithub /></a>
+  <a href='https://www.linkedin.com/in/kaunain1/' target='_blank'><BsLinkedin/></a>
 
   </div>
   <div className='footer__copyright'>
-    <small> &copy; Thank you for Visition</small>
+    <small> &copy; Thank you for Visiting</small>
   </div>
    </footer>
   )
