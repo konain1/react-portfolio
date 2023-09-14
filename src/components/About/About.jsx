@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "./../../assets/me-about.jpg";
+import ME from "./../../assets/neeru1.png";
 import { FaAward } from "react-icons/fa";
 import { AiOutlineFundProjectionScreen } from "react-icons/ai";
 function About() {

@@ -21,7 +21,13 @@
     overflow: hidden;
     transform: rotate(10deg);
     transition: var(--transition);
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
 }
+
+
 .about__me-image:hover {
     transform: rotate(0deg);
 }
