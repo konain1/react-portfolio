@@ -14,18 +14,16 @@ const data = [
   {
     id: 2,
     title: "Ecommerce Groccery",
-    image:
-      "https://images.unsplash.com/photo-1600132806608-231446b2e7af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cHJvamVjdHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    github: "https://github.com/konain1/groceryStore",
+    image: 'project2.png',
+    github: "https://github.com/konain1",
     demo: "https://grocerystoreecom.netlify.app",
   },
   {
     id: 3,
-    title: "project3",
-    image:
-      "https://images.unsplash.com/photo-1600132806608-231446b2e7af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cHJvamVjdHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    github: "https://github.com/konain1",
-    demo: "https://www.konain7.com",
+    title: "movieApp",
+    image:'project3.png',
+    github: "https://github.com/konain1/apidata/tree/main",
+    demo: "https://webmoviesdummy.netlify.app",
   },
   {
     id: 4,
