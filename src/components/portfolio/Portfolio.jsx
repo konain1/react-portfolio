@@ -13,11 +13,11 @@ const data = [
   },
   {
     id: 2,
-    title: "project2",
+    title: "Ecommerce Groccery",
     image:
       "https://images.unsplash.com/photo-1600132806608-231446b2e7af?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8cHJvamVjdHN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    github: "https://github.com/konain1",
-    demo: "https://www.konain7.com",
+    github: "https://github.com/konain1/groceryStore",
+    demo: "https://grocerystoreecom.netlify.app",
   },
   {
     id: 3,
